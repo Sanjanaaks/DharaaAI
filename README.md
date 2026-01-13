@@ -103,12 +103,15 @@ The dataset includes the following parameters:
 ## 📈 Results & Screenshots
 
 ### 🔐 User Authentication
-<img width="555" height="544" alt="Screenshot 2026-01-13 160004" src="https://github.com/user-attachments/assets/ecf74d2a-570c-4729-9ea4-e8a5d569512e" />
-<img width="458" height="439" alt="Screenshot 2026-01-13 160016" src="https://github.com/user-attachments/assets/fe00d236-f014-4e24-bc4d-bce0e6bbde65" />
-
+<img width="555" height="507" alt="Screenshot 2026-01-13 160004" src="https://github.com/user-attachments/assets/757d7c6e-33fa-4efb-9e04-bef9bd3d7c46" />
+<img width="458" height="357" alt="Screenshot 2026-01-13 160016" src="https://github.com/user-attachments/assets/dddbaeda-1c84-4e66-862e-5a223092c65f" />
 
 ### 🌾 Crop Recommendation
-![Crop Recommendation Result](screenshots/crop_result.png)
+<img width="1083" height="277" alt="image" src="https://github.com/user-attachments/assets/a1e9c777-8e09-4ace-8b65-62afbab9b182" />
+<img width="1083" height="277" alt="image" src="https://github.com/user-attachments/assets/ba15aa31-caf1-421c-b879-da92658850a5" />
+<img width="634" height="294" alt="image" src="https://github.com/user-attachments/assets/e540b57a-26b4-4f07-a045-182806894c03" />
+
+
 
 ### 🧪 Fertilizer Recommendation
 ![Fertilizer Recommendation Result](screenshots/fertilizer_result.png)
