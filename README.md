@@ -107,14 +107,17 @@ The dataset includes the following parameters:
 <img width="458" height="357" alt="Screenshot 2026-01-13 160016" src="https://github.com/user-attachments/assets/dddbaeda-1c84-4e66-862e-5a223092c65f" />
 
 ### 🌾 Crop Recommendation
-<img width="1083" height="277" alt="image" src="https://github.com/user-attachments/assets/a1e9c777-8e09-4ace-8b65-62afbab9b182" />
+<img width="484" height="427" alt="Screenshot 2026-01-13 160601" src="https://github.com/user-attachments/assets/85c5ab37-2a37-45b9-8138-5734ccb864cb" />
+<img width="484" height="427" alt="Screenshot 2026-01-13 160601" src="https://github.com/user-attachments/assets/3d2b1fed-8b2d-4ce7-989c-f0922650a69d" />
+<img width="550" height="475" alt="Screenshot 2026-01-13 160622" src="https://github.com/user-attachments/assets/7ab817a1-f544-4ac5-91e3-803c7434f628" />
 <img width="1083" height="277" alt="image" src="https://github.com/user-attachments/assets/ba15aa31-caf1-421c-b879-da92658850a5" />
 <img width="634" height="294" alt="image" src="https://github.com/user-attachments/assets/e540b57a-26b4-4f07-a045-182806894c03" />
-
-
+<img width="550" height="484" alt="Screenshot 2026-01-13 160632" src="https://github.com/user-attachments/assets/7e013f1a-b1fc-4181-82ad-9f1adf9b83fc" />
 
 ### 🧪 Fertilizer Recommendation
-![Fertilizer Recommendation Result](screenshots/fertilizer_result.png)
+<img width="687" height="517" alt="image" src="https://github.com/user-attachments/assets/d6c19435-752e-4ea7-bcc8-d2014b053b36" />
+<img width="1042" height="360" alt="image" src="https://github.com/user-attachments/assets/dafd842f-59f8-4a2e-ad64-999fc09f0341" />
+<img width="507" height="374" alt="image" src="https://github.com/user-attachments/assets/af2a7bff-33fe-4b56-b4aa-30f66bc5c0c5" />
 
 ---
 
