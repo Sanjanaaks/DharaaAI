@@ -103,7 +103,9 @@ The dataset includes the following parameters:
 ## 📈 Results & Screenshots
 
 ### 🔐 User Authentication
-![Login Page](screenshots/login.png)
+<img width="555" height="544" alt="Screenshot 2026-01-13 160004" src="https://github.com/user-attachments/assets/ecf74d2a-570c-4729-9ea4-e8a5d569512e" />
+<img width="458" height="439" alt="Screenshot 2026-01-13 160016" src="https://github.com/user-attachments/assets/fe00d236-f014-4e24-bc4d-bce0e6bbde65" />
+
 
 ### 🌾 Crop Recommendation
 ![Crop Recommendation Result](screenshots/crop_result.png)
