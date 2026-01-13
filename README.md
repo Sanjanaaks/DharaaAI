@@ -156,5 +156,4 @@ Srinivas Institute of Technology, Mangaluru
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
